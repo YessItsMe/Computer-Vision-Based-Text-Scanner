@@ -1,2 +1,2 @@
-# Computer-Vision-Based-Text-Scanner
-Optical Character Recognition using Tesseract-OCR
+# OCR_using_pytesseract
+Program to convert text in image to .txt format.
